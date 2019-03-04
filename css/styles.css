@@ -1,0 +1,69 @@
+.landing {
+  background-image: url('../img/class.jpg');
+  background-position: center;
+  height: 1000px;
+  width: 100%;
+}
+
+.header-main {
+display: flex;
+flex-direction: row;
+height: 10%;
+}
+
+.img-cont {
+width: 50%;
+align-self: center;
+}
+
+.nav-cont {
+width: 50%;
+margin-top: 3%;
+
+}
+
+
+.header-main img {
+padding-left: 5%;
+}
+
+.header-main ul {
+  padding-left: 35%;
+}
+
+.nav-list a {
+  padding-right: 25px;
+}
+
+
+
+.body-heading{
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  margin-top: 20%;
+  width: 40%;
+
+}
+
+.body-heading h1, .body-heading h2 {
+  color: white;
+}
+
+.buttons a {
+margin: 17px;
+}
+
+
+.buttons a:first-child{
+background-color: rgba(90, 189, 134, 0.7);
+}
+
+
+.buttons a:nth-of-type(2){
+background-color: rgba(152, 201, 50, 0.7);
+}
+
+.buttons a:last-child {
+background-color: rgba(71, 156, 169, 0.7);
+}
