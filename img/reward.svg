@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="42px" height="42px" viewBox="0 0 42 42" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 39.1 (31720) - http://www.bohemiancoding.com/sketch -->
+    <title>medal (2)</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="21" cy="21" r="21"></circle>
+    </defs>
+    <g id="Welcome" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.900000036">
+        <g id="Desktop-HD" transform="translate(-735.000000, -1153.000000)">
+            <g id="parent" transform="translate(179.000000, 919.000000)">
+                <g id="text" transform="translate(555.000000, 35.000000)">
+                    <g id="features" transform="translate(0.000000, 199.000000)">
+                        <g id="f1" transform="translate(1.000000, 0.000000)">
+                            <g id="medal-(2)">
+                                <mask id="mask-2" fill="white">
+                                    <use xlink:href="#path-1"></use>
+                                </mask>
+                                <use id="Mask" fill="#FF5B61" xlink:href="#path-1"></use>
+                                <path d="M26.1645206,41.3602163 C35.265304,39.0588559 42,30.8159142 42,21 C42,20.482153 41.9812561,19.968684 41.9444098,19.4602342 L29.3067403,6.35082244 L19.7315721,35.4018136 L26.1645206,41.3602163 Z" id="shadow" fill-opacity="0.222458107" fill="#000000"></path>
+                                <polygon id="XMLID_37_" fill="#003778" points="11.8125825 11.5125 16.5738225 10.15884 20.6988225 22.2375 15.9375 23.59116"></polygon>
+                                <polygon id="XMLID_36_" fill="#0052B4" points="29.9625 11.5125 25.2011775 10.15884 21.0761775 22.2375 25.8375 23.59116"></polygon>
+                                <ellipse id="XMLID_849_" fill="#FF9811" cx="20.8875" cy="28.0125" rx="7.425" ry="7.425"></ellipse>
+                                <path d="M20.8875,35.4375 C16.7868375,35.4375 13.4625,32.1131625 13.4625,28.0125 C13.4625,23.911755 16.7868375,20.5875 20.8875,20.5875" id="XMLID_850_" fill="#BF720D"></path>
+                                <ellipse id="XMLID_851_" fill="#FFDA44" cx="20.8875" cy="28.0125" rx="4.95" ry="4.95"></ellipse>
+                                <rect id="XMLID_852_" fill="#0052B4" x="11.8125" y="6.5625" width="9.075" height="4.95"></rect>
+                                <rect id="XMLID_853_" fill="#006DF0" x="20.8875" y="6.5625" width="9.075" height="4.95"></rect>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
